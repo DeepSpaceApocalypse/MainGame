@@ -1,18 +1,28 @@
 {
-    "id": "caf7afd8-b4eb-4cea-a4cd-e724a2fc2fb7",
+    "id": "2ef40e12-481a-4da1-a8d1-156c9905af97",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oGun",
+    "name": "oCamera",
     "eventList": [
         {
-            "id": "3cd602a5-ceb7-43c5-b533-8e41bc8d37ac",
+            "id": "dca188af-f03c-47d4-97a9-fe3fb6508e6e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
+            "enumb": 0,
             "eventtype": 3,
-            "m_owner": "caf7afd8-b4eb-4cea-a4cd-e724a2fc2fb7"
+            "m_owner": "2ef40e12-481a-4da1-a8d1-156c9905af97"
+        },
+        {
+            "id": "4ad64b09-bf50-4dba-b61d-d7e1d42e1c1d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "2ef40e12-481a-4da1-a8d1-156c9905af97"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
