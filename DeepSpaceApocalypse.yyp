@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1eb81f75-15f1-4370-9f75-9784d859345d",
+            "Value": {
+                "id": "3eb8d9c8-a5a5-4b83-8c69-d30dbd3d8d86",
+                "resourcePath": "scripts\\Transition\\Transition.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "278e27f1-7e8c-43f7-8b42-5717d5953d8c",
             "Value": {
                 "id": "875dc840-cd5d-4451-867a-0ccd00b66ab1",
@@ -51,6 +59,14 @@
             "Value": {
                 "id": "26755805-c6bf-430a-9263-d51276ce2436",
                 "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "301037bb-6b61-4c81-ad63-56c42215cd31",
+            "Value": {
+                "id": "66e02efb-1ad4-4e84-9b3e-e51d076d11a8",
+                "resourcePath": "objects\\oTransition\\oTransition.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -264,7 +280,7 @@
         }
     ],
     "script_order": [
-        
+        "1eb81f75-15f1-4370-9f75-9784d859345d"
     ],
     "tutorial": ""
 }
