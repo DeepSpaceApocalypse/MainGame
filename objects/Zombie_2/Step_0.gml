@@ -42,3 +42,8 @@ else
 }
 
 if(hsp != 0) image_xscale = sign(hsp);
+
+if(instance_exists(oPlayer))
+{
+	move_towards_point(oPlayer.x,oPlayer.y,hsp)
+}
