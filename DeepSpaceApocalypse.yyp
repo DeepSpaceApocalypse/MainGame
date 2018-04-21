@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "c2131496-729d-43a6-bc07-8d4d142b2468",
+            "Value": {
+                "id": "5774f472-b46a-430f-bdb4-7c8a1e830493",
+                "resourcePath": "sprites\\S_Trigger\\S_Trigger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c5e291c6-587c-45eb-94ae-73eea0d84894",
             "Value": {
                 "id": "70cc378a-5e59-495e-9df3-3ac5d8640d8e",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "232db271-85ee-48d7-b097-98341eaa0d47",
                 "resourcePath": "objects\\Zombie_3\\Zombie_3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e03db165-e4af-4bfc-a3b6-5ab8c0596280",
+            "Value": {
+                "id": "ff63f220-979a-4e06-9f87-938e536a488b",
+                "resourcePath": "objects\\O_LevelEnd\\O_LevelEnd.yy",
                 "resourceType": "GMObject"
             }
         },
