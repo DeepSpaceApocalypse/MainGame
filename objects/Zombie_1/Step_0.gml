@@ -29,7 +29,7 @@ if(!place_meeting(x,y+1,oWall))
 }	
 else
 {
-	/*image_speed = 1;
+	image_speed = 1;
 	if(hsp == 0)
 	{
 		sprite_index = sZombie_1;
@@ -37,8 +37,8 @@ else
 	}
 	else
 	{
-		sprite_index = sEnemyR;
-	}*/
+		sprite_index = sZombie_1R;
+	}
 }
 
 if(hsp != 0) image_xscale = sign(hsp);
