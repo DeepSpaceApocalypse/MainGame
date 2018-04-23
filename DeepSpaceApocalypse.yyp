@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "5d08c45d-e9c2-4e2b-a30e-99c193a74a76",
+            "Value": {
+                "id": "a19a221e-b3dc-4caa-97f2-4abe65020ab0",
+                "resourcePath": "sprites\\Bat\\Bat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e669381-3a1d-4c0d-93d9-59cbae00fc7d",
             "Value": {
                 "id": "5aa099d1-d0e1-4701-b848-499d439da3bb",
@@ -212,6 +220,14 @@
                 "id": "e011973c-6e85-4db1-8dd5-3782384938ec",
                 "resourcePath": "rooms\\room4\\room4.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9c2211ae-0d1d-4f49-99cb-510c6524d7a2",
+            "Value": {
+                "id": "bc8485ca-5635-4a6b-98f5-f39e2a46ac10",
+                "resourcePath": "objects\\oBat\\oBat.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -356,6 +372,22 @@
                 "id": "e7d970f9-d724-4aca-8f27-a812fb6143d4",
                 "resourcePath": "sprites\\sZombie_2\\sZombie_2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e0d294be-d1e7-4926-bc76-00311322cd8c",
+            "Value": {
+                "id": "ab2a0e73-d838-4455-a91c-96f226ff1507",
+                "resourcePath": "sprites\\BatThrow\\BatThrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e456959c-77e2-49c6-8d35-f037ac00fad7",
+            "Value": {
+                "id": "1d09a886-944e-46d8-ba9f-913fdf5c90d0",
+                "resourcePath": "objects\\oShot\\oShot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
