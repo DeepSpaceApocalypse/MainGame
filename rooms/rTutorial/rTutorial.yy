@@ -1,6 +1,6 @@
 
 {
-    "name": "room1",
+    "name": "rTutorial",
     "id": "59b28bdc-80db-4524-b5b1-c85ad0e409c6",
     "creationCodeFile": "",
     "inheritCode": false,

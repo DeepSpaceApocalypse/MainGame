@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 menu_x += (menu_x_target - menu_x) / menu_speed;
 if(menu_control)
 {
@@ -29,14 +26,17 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 {
     switch (menu_committed) 
 	{
-	    case 2:
-	        Transition(TRANS_MODE.NEXT);
+	    case 2: {
+	        Transition(TRANS_MODE.GOTO, rOne);
 	        break;
-		case 1:
-		{
-			Transition(TRANS_MODE.GOTO,target);
 		}
-		break;
-		case 0: game_end(); break;
+		case 1: {
+			Transition(TRANS_MODE.NEXT);
+			break;
+		}
+		case 0: {
+			game_end(); 
+			break;
+		}
 	}
 }

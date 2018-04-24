@@ -122,7 +122,7 @@
             "Key": "457ccb85-cd3f-4ae3-bb63-9980335b8125",
             "Value": {
                 "id": "9e81e7ca-cb28-4614-bd78-794aab1e3ca0",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\rMenu\\rMenu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -132,6 +132,14 @@
                 "id": "0dd3a93d-a1b6-4750-b578-ce967f8e99d1",
                 "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "4932746f-e48c-4ed9-ba14-5988555f640d",
+            "Value": {
+                "id": "99b23963-e01c-4f3e-a4f4-151b167846f7",
+                "resourcePath": "sprites\\sZombie_2R\\sZombie_2R.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -146,7 +154,7 @@
             "Key": "59b28bdc-80db-4524-b5b1-c85ad0e409c6",
             "Value": {
                 "id": "3f039070-cecf-4400-9f16-89277c33d89d",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\rTutorial\\rTutorial.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -162,7 +170,7 @@
             "Key": "5e669381-3a1d-4c0d-93d9-59cbae00fc7d",
             "Value": {
                 "id": "5aa099d1-d0e1-4701-b848-499d439da3bb",
-                "resourcePath": "rooms\\room3\\room3.yy",
+                "resourcePath": "rooms\\rTwo\\rTwo.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -218,7 +226,7 @@
             "Key": "9b9d0bed-e86a-4f6b-b7e1-58adbe8cfc31",
             "Value": {
                 "id": "e011973c-6e85-4db1-8dd5-3782384938ec",
-                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourcePath": "rooms\\rScreen\\rScreen.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -250,7 +258,7 @@
             "Key": "a5b98f77-fc82-4c1e-94b6-e72d23d22591",
             "Value": {
                 "id": "ac777161-44eb-44d7-8c01-5e8e658998df",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rOne\\rOne.yy",
                 "resourceType": "GMRoom"
             }
         },
