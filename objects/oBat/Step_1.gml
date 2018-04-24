@@ -17,12 +17,10 @@ recoil = max(0,recoil - 1);
 if((mouse_check_button(mb_left)) || gamepad_button_check(0,gp_shoulderrb)) && (!instance_exists(oShot)) {
 	ScreenShake(2,10);
 	with(instance_create_layer(x,y,"Bullets",oShot)) {
-		speed = 25;
+		speed = 15;
 		direction = other.image_angle + random_range(-3,3);
 		image_angle = direction;
 	}
-	image_speed = 0;
-	image_index = 1;
 }
 
 x = x + lengthdir_x(recoil,image_angle);
