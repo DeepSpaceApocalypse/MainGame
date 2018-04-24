@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "ee610885-0eff-4105-947d-4b8d7bb85a6f",
+            "Value": {
+                "id": "da9eb0be-2ad3-4764-9228-cec629624725",
+                "resourcePath": "sprites\\sZombie_3R\\sZombie_3R.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ef51d9c7-d364-481f-974e-34e04bdfc10c",
             "Value": {
                 "id": "f154cca3-5839-49a4-9cce-2673ac73c069",
