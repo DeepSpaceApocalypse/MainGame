@@ -13,6 +13,7 @@ if(triggered) {
 			Transition(TRANS_MODE.NEXT);
 		} else {
 			current_wave++;
+			global.num_waves++;
 			timer = 0;
 		}
 	}

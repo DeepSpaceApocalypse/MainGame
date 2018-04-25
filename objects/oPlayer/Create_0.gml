@@ -8,3 +8,5 @@ hit_delay = 0;
 
 controller = 0;
 hascontrol = true;
+
+global.dead = false;

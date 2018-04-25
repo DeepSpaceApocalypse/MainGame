@@ -1,3 +1,8 @@
+if(hp <= 0) {
+	global.dead = true;
+	Transition(TRANS_MODE.GOTO, rScreen);
+}
+
 if (hascontrol)
 {
 	key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
