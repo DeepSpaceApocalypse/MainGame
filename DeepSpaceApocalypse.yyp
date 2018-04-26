@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "759f7224-d46c-4784-84f6-1bc1830be598",
+            "Value": {
+                "id": "dda870e7-ce8a-40ab-a765-e693acee1da3",
+                "resourcePath": "sprites\\sWin\\sWin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7a679172-b2fa-4544-ab1b-c8a38fc7f712",
             "Value": {
                 "id": "0b6e19c0-c8e7-48bb-b69c-ca5b8c0e3b9f",
@@ -460,6 +468,14 @@
                 "id": "c0cd9dcf-84a6-4fc7-93da-d5b9e3b571ff",
                 "resourcePath": "scripts\\ScreenShake\\ScreenShake.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f666e066-f33d-4c18-8895-8f88ef426e8d",
+            "Value": {
+                "id": "779eaa15-608e-4743-a654-9262836072a2",
+                "resourcePath": "fonts\\fScreen\\fScreen.yy",
+                "resourceType": "GMFont"
             }
         },
         {
