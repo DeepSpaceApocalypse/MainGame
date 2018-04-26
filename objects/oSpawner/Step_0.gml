@@ -8,13 +8,13 @@ if(triggered) {
 	}
 	timer++;
 	if(remaining[current_wave] <= 0) {
+		if(room != rTutorial)
+				global.num_waves++;
 		if(current_wave == total_waves) {
 			instance_destroy();
 			Transition(TRANS_MODE.GOTO, target);
 		} else {
 			current_wave++;
-			if(room != rTutorial)
-				global.num_waves++;
 			timer = 0;
 		}
 	}
